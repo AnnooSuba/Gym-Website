@@ -5,7 +5,7 @@
   font-family: sans-serif;
 }
 .background{
-  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(img/pexels-pixabay-416778.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(./pexels-pixabay-416778.jpg);
   
   height: 120vh;
   width: auto;
